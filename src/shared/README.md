@@ -1,6 +1,6 @@
 # Shared with the CLI
 
-These files are copies from [slinghook-cli](https://github.com/DylanCourtney584/slinghook-cli), so the extension
+These files are copies from [slinghook-cli](https://github.com/fulcrum-software-za/slinghook-cli), so the extension
 replays, parses streams and generates code exactly like `shk listen` and the MCP tools do:
 
 | File | Copied from |
