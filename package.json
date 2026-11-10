@@ -5,14 +5,15 @@
   "version": "0.1.0",
   "publisher": "slinghook",
   "license": "MIT",
+  "author": "Fulcrum Software (https://github.com/fulcrum-software-za)",
   "icon": "media/icon.png",
   "homepage": "https://slinghook.co.za",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DylanCourtney584/slinghook-vscode.git"
+    "url": "https://github.com/fulcrum-software-za/slinghook-vscode.git"
   },
   "bugs": {
-    "url": "https://github.com/DylanCourtney584/slinghook-vscode/issues"
+    "url": "https://github.com/fulcrum-software-za/slinghook-vscode/issues"
   },
   "keywords": [
     "webhook",
