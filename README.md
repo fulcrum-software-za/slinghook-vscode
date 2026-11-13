@@ -58,4 +58,4 @@ Press F5 in VS Code to run the extension in a new window. Point it at a local Sl
 
 ## License
 
-MIT. SlingHook is made by [Fulcrum Software](https://github.com/fulcrum-software-za), South Africa.
+MIT. SlingHook is made by [Fulcrum Software](https://fulcrum-website-7mr.pages.dev/), South Africa.
